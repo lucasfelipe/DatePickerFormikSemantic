@@ -1,2 +1,0 @@
-# DatePickerFormikSemantic
-Created with CodeSandbox
